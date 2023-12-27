@@ -28,7 +28,8 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form><form class="gl-show-field-errors">
+            <input type="text" title="&lt;img src=x onerror=&quot;alert(document.domain)&quot;&gt;">
           format: int64
           in: path
           name: id
